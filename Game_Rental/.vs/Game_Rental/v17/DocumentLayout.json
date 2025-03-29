@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Visual Studio 2022\\projects\\Game_Rental\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE1404C-FC7C-4D2F-8207-252C95DC2A05}|Game_Rental.csproj|F:\\Visual Studio 2022\\projects\\Game_Rental\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE1404C-FC7C-4D2F-8207-252C95DC2A05}|Game_Rental.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE1404C-FC7C-4D2F-8207-252C95DC2A05}|Game_Rental.csproj|F:\\Visual Studio 2022\\projects\\Game_Rental\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CE1404C-FC7C-4D2F-8207-252C95DC2A05}|Game_Rental.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE1404C-FC7C-4D2F-8207-252C95DC2A05}|Game_Rental.csproj|F:\\Visual Studio 2022\\projects\\Game_Rental\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE1404C-FC7C-4D2F-8207-252C95DC2A05}|Game_Rental.csproj|solutionrelative:currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE1404C-FC7C-4D2F-8207-252C95DC2A05}|Game_Rental.csproj|F:\\Visual Studio 2022\\projects\\Game_Rental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE1404C-FC7C-4D2F-8207-252C95DC2A05}|Game_Rental.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "F:\\Visual Studio 2022\\projects\\Game_Rental\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "F:\\Visual Studio 2022\\projects\\Game_Rental\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T19:49:57.235Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "F:\\Visual Studio 2022\\projects\\Game_Rental\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "F:\\Visual Studio 2022\\projects\\Game_Rental\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAwwFEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T19:50:03.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "F:\\Visual Studio 2022\\projects\\Game_Rental\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "CurrentUser.cs",
+              "ToolTip": "F:\\Visual Studio 2022\\projects\\Game_Rental\\CurrentUser.cs",
+              "RelativeToolTip": "CurrentUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:12:01.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Visual Studio 2022\\projects\\Game_Rental\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Visual Studio 2022\\projects\\Game_Rental\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T17:53:02.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
