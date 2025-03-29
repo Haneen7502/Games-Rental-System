@@ -1,29 +1,32 @@
-Games Rental System
-The Games Rental System provides an easy and cost-effective way to try out new games without buying them. It allows users to rent games, making gaming more accessible and affordable.
 
-Functionality:
-User Management:
+# **Games Rental System**  
 
-Signing up new users (admin, client)
+The **Games Rental System** is a software application that allows users to rent games efficiently, providing a cost-effective way to explore new games without purchasing them. The system enables game vendors to manage their game listings, while administrators oversee user management and rental operations.  
 
-Updating user details
+## **Features**  
 
-Game Management:
+### **User Management**  
+- User registration (Admin, Client)  
+- Updating user details  
 
-Adding a game (admin)
+### **Game Management**  
+- Adding new games (Admin)  
+- Updating game details (Admin)  
+- Browsing available games  
+- Filtering games by year, vendor, and category  
 
-Updating game details (admin)
+### **Rental Operations**  
+- Renting games  
+- Returning rented games  
 
-Browsing games
+## **Project Scope**  
+This project includes:  
+- Designing an **Entity Relationship Diagram (ERD)**  
+- Converting the ERD to a **physical database model** using **DDL scripts**  
+- Writing **SQL queries** to analyze rental trends and vendor performance  
 
-Filtering games based on criteria (year, vendor, category)
+## **Technologies Used**  
+- **Programming Language:** C# (Windows Forms)  
+- **Database:** MySQL  
 
-Game Rental Operations:
-
-Renting games
-
-Returning games
-
-The project involves designing an ERD, converting it into a physical model using DDL scripts, and writing SQL queries to answer key business questions like identifying the most rented game, games with no rentals last month, the top renter and vendor of the previous month, and vendors with no recent activity.
-
-Technologies used: C# (Windows Forms) and MySQL.
+This system ensures smooth game rental operations, helping users access games easily while allowing vendors and administrators to manage listings efficiently.
